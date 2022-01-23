@@ -3,7 +3,9 @@
 #include "planejar.h"
 
 #define MAX 100
-#define OP 10
+#define OP 10 
+
+/*Função Principal*/
 
 int main() {
 
